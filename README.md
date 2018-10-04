@@ -8,7 +8,12 @@ instructions of train kata.
 There are pillars near the road. The distance between the pillars is the same and the width of the pillars is the same. Your function accepts three arguments:
 
 1- number of pillars (≥ 1);
+
+
 2- distance between pillars (10 - 30 meters);
+
+
+
 3- width of the pillar (10 - 50 centimeters).
 Calculate the distance between the first and the last pillar in centimeters (without the width of the first and last pillar).
 
@@ -16,9 +21,15 @@ Calculate the distance between the first and the last pillar in centimeters (wit
 This is how I approach to this problem. 
 
  ONE PILLAR .- there is no distance between pillars because there is only one, So, total distance = 0
+ 
+ 
  TWO PILLARS .- here we have to take in consideration the following hint (without the width of the first and last pillar)
                 with two pillars we have first and last pillars, so it only counts the distance IN CENTIMETERs.
+                
+                
 THREE AND MORE PILLARS.- here is when we have to do some logic. I a graphic person so I am going to graph a couple of pillars and give you my logic.
+
+
 
   number of pillars 5, ditance bwt 10m and width 15cm  
   
