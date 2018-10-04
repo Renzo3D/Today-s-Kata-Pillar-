@@ -27,11 +27,11 @@ This is how I approach to this problem.
                 with two pillars we have first and last pillars, so it only counts the distance IN CENTIMETERs.
                 
                 
-THREE AND MORE PILLARS.- here is when we have to do some logic. I a graphic person so I am going to graph a couple of pillars and give you my logic.
+THREE AND MORE PILLARS.- here is when we have to do some logic. I'm a graphic person so I am going to graph a couple of pillars and give you my logic.
 
 
 
-  number of pillars 5, ditance bwt 10m and width 15cm  
+  number of pillars 5 ( | ), ditance bwt 10m and width of pillars 15cm  
   
   |    10m      |     10m      |     10m        |    10m       |   
         (without the width of the first and last pillar)
